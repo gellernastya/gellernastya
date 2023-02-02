@@ -2,7 +2,7 @@
 
 I’m Anastasia, and I’m currently running recruitment for the global team of [@GetStream](@GetStream), and I’ll be sharing some useful tools in this profile as my way of giving back to the wonderful recruitment community :)
 
-About myself: 
+A bit about myself: 
 
 🦄 Passionate about all things recruitment 
 
