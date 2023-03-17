@@ -1,8 +1,8 @@
 ## Hi there! 👋
 
-I’m Anastasia, and I’m currently running recruitment for the global team of [@GetStream](@GetStream), and I’ll be sharing some useful tools in this profile as my way of giving back to the wonderful recruitment community :)
+I’m Anastasia, and I’m currently running recruitment for the global team of [@GetStream](@GetStream).
 
-Check out Diversity Sourcing Toolkit: https://github.com/gellernastya/diversity-sourcing/ 
+Check out the Diversity Sourcing Toolkit: https://github.com/gellernastya/diversity-sourcing/ 
 
 A bit about myself: 
 
